@@ -1,0 +1,1 @@
+本次作业主要在`openmmlab 2.0`框架下进行的，由于`github`文件上传限制，我将模型文件放在了https://drive.google.com/file/d/19pqH90-BftxrYUxvQgcIaaukQ2A1xq8s/view?usp=sharing
